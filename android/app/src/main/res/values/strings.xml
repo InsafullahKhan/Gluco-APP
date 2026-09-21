@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Gluco App</string>
+    <string name="title_activity_main">Gluco App</string>
+    <string name="package_name">com.insafullah.glucoapp</string>
+    <string name="custom_url_scheme">com.insafullah.glucoapp</string>
+</resources>
